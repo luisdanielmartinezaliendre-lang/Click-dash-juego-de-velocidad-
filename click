@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Juego Simplificado Mejorado</title>
+<title>click dash</title>
 <style>
   body, html {
     margin: 0; padding: 0; height: 100%;
@@ -137,7 +137,7 @@
   let level = 1;
   const maxLevel = 3;
   const levelTimes = [10, 15, 20]; // segundos
-  const levelGoals = [5, 10, 15];  // clics objetivo
+  const levelGoals = [10, 20, 47];  // clics objetivo
 
   let timeLeft = 0;
   let score = 0;
